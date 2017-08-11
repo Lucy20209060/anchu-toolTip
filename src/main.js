@@ -16,6 +16,7 @@ let getAnInstance = () => {
   });
 
 };
+
 // 并不是很理解这个操作
 let returnAnInstance = instance => {
   if (instance) {
