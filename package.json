@@ -1,0 +1,19 @@
+{
+  "name": "anchu-toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucy20209060/anchu-toolTip.git"
+  },
+  "author": "lucy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucy20209060/anchu-toolTip/issues"
+  },
+  "homepage": "https://github.com/Lucy20209060/anchu-toolTip#readme"
+}
